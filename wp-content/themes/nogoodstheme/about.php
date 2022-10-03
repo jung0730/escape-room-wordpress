@@ -1,4 +1,4 @@
-<div class="d-flex flex-column justify-content-center align-items-center">
+<div class="container flex-column justify-content-center align-items-center">
   <h2 id="about" class="mb-5">
     梅添涼在幹嘛？
   </h2>
